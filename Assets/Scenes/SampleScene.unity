@@ -1320,21 +1320,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boxPrefabs: {fileID: 5219062841809475078, guid: 4b73fda824d0fa04192f5c32ada506d2, type: 3}
   sprites:
-  - {fileID: 273255832, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: 192205921, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: -1179714189, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: -1383655593, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: -432009585, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: 1238711423, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: 1218446350, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: 657089416, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: 345407729, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: 759672570, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: -1048832258, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: -1575614753, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: 286118001, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: -1582141086, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
-  - {fileID: -1051572490, guid: 01ccf3dc98aec2542b6ce509396545a5, type: 3}
+  - {fileID: -1713967990, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -1326152954, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: 1998386996, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -1503892731, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: 344429440, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: 12770976, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -1344903035, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -1194127699, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -256526608, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -797804401, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -1480402666, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -435179896, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: 114482817, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -1882275875, guid: 45005690757f33445adb175fe6ed372c, type: 3}
+  - {fileID: -1121089330, guid: 45005690757f33445adb175fe6ed372c, type: 3}
   - {fileID: 0}
 --- !u!4 &1847544088
 Transform:
